@@ -1,0 +1,1 @@
+terraform init -backend-config="storage_account_name=cs123459876" -backend-config="container_name=tfstate" -backend-config="access_key=dQ46ntqL6ko4lRe5Lapz3V7YWRRVdcpuOlkQstASun6WLI4pPxRtw1uYTCmjYZMTO36ZUKBDX51QY6Jq1Tp5bg====" -backend-config="key=codelab.microsoft.tfstate"

@@ -1,0 +1,1 @@
+az storage container create -n tfstate --account-name cs123459876 --account-key dQ46ntqL6ko4lRe5Lapz3V7YWRRVdcpuOlkQstASun6WLI4pPxRtw1uYTCmjYZMTO36ZUKBDX51QY6Jq1Tp5bg==
